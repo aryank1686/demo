@@ -1,5 +1,5 @@
 # demo
 
-this is my first repository. lessgooo.
+This is my first repository. lessgooo.
 <br>
 Hello world, I have arrived.
