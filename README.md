@@ -2,4 +2,4 @@
 
 Hello world, I have arrived.
 <br>
-This is my first repository. lessgooo.
+This is my first repository. Lessgooo.
